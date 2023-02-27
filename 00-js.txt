@@ -1,0 +1,13 @@
+***27/02/23***
+
+Objetivos do modulo:
+
+Instrutor: Isaac Pontes
+
+>Fundamentos do JS e da programação;
+>Lógica de programação;
+>Estruturas de controle;
+>Arrays;
+>Objetos;
+>Funções;
+
